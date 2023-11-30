@@ -1,0 +1,121 @@
+
+
+/* --------------group-------------- */
+/* =================màu của bảng====*/
+.table .thead-dark th {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #454d55;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2
+px
+ solid #dee2e6;
+}
+.table td, .table th {
+    padding: 0.75
+rem
+;
+    vertical-align: top;
+    border: 1
+px
+ solid #dee2e6;
+}
+.table td, .table th {
+    padding: 0.75
+rem
+;
+    vertical-align: top;
+    border-top: 1
+px
+ solid #dee2e6;
+}
+th {
+    text-align: inherit;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+.table {
+    width: 100%;
+    margin-bottom: 1
+rem
+;
+    color: #212529;
+}
+table {
+    border-collapse: collapse;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+.tab .tab-content {
+    font-size: 15px;
+    color: #808080;
+    border: 0 none;
+    line-height: 25px;
+    /* padding: 5
+px
+ 70
+px
+; */
+    margin-top: 15
+px
+;
+    text-align: center;
+}
+.App {
+    text-align: center;
+}
+table
+{ 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.tab .nav-tabs li.active a, .tab .nav-tabs li.active a:focus, .tab .nav-tabs li.active a:hover {
+    border: none;
+    background: #030f27;
+    color: #fff;
+    transition: all 0.20s linear 0s;
+}
+.tab-pane in active
+{
+    margin: 0 auto;
+}
+
+
+/*==================menu===================*/
+.d-flex {
+    
+   
+    display: flex!important;
+    font-weight: 700;
+        transition: all 0.5s;
+        z-index: 997;
+        transition: all 0.5s;
+      
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+  height: 100px;
+    
+   
+}
+
+
+
+
+
